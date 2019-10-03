@@ -1,12 +1,12 @@
 <p align="center">
-<img alt="Best Android Tutorials" src="https://raw.githubusercontent.com/MindorksOpenSource/best-android-tutorials/master/images/best-android-tutorials.png">
+<img alt="Best Android Tutorial" src="https://raw.githubusercontent.com/MindorksOpenSource/best-android-tutorials/master/images/best-android-tutorials.png">
 </p>
 
-# Best Free Android Tutorials By [MindOrks](https://mindorks.com)
+# Best Free Android Tutorial By [MindOrks](https://mindorks.com)
 
-> A complete list of Android tutorials to learn Android App Development published by MindOrks. These tutorials will help you in becoming a better Android Developer.
+> A complete list of Android tutorial to learn Android App Development published by MindOrks. These tutorials will help you in becoming a better Android Developer.
 
-### Android Tutorials
+### Android Tutorial
 
 * [Understanding Android Core: Looper, Handler, and HandlerThread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a) - Looper, Handler, and HandlerThread are the Android’s way of solving the problems of asynchronous programming. They are not old school, but a neat structure on which a complex android framework is built.
 * [Mastering Kotlin Coroutines In Android - Step By Step Guide](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide) - In this blog, we are going to master the Kotlin Coroutines in Android. We will cover what exactly Coroutines are and how they are useful. We will also go through the step by step guide on how to implement Kotlin Coroutines in Android. We will understand why there is a need for the solutions which Kotlin Coroutines provide. We will also talk about the scopes and the exception handling in Kotlin Coroutines.
@@ -106,7 +106,7 @@
 * [Understanding Multidex in Android](https://blog.mindorks.com/understanding-multidex-in-android) - In this blog, we will learn how to use Multidex in Android. Basically, Multidex is used when we want to add more than 64K methods in our Android project. If we don't use any Multidex for project having more than 64K methods, then we will encounter DEX error. So, in this blog, we will learn how to use Mulidex to improve functionalities in our App. 
 * [Getting Started with ShareSheet in Android Q](https://blog.mindorks.com/getting-started-with-sharesheet-in-android-q) - In this blog, we will understand how to integrate the share sheet in our application and how it is different from DirectShare API which was launched in Android M. This blogs covers the detail and step by step explanation to integrate it .
 * [Gradle Tips and Tricks for Android](https://blog.mindorks.com/gradle-tips-and-tricks-for-android) - In this blog, we will learn some Gradle tips and tricks for Android. After reading this blog, you will be able to use various features of Gradle that will help you in developing an Android App faster than before.
-* [Getting started with Motion Layout: Android Tutorials](https://blog.mindorks.com/getting-started-with-motion-layout-android-tutorials) - In this blog, we will learn how to use MotionLayout in Android. MotionLayout is a subclass of ConstraintLayout for building animations. Here you will learn how to apply animation without writing any java or kotlin code. 
+* [Getting started with Motion Layout: Android Tutorial](https://blog.mindorks.com/getting-started-with-motion-layout-android-tutorials) - In this blog, we will learn how to use MotionLayout in Android. MotionLayout is a subclass of ConstraintLayout for building animations. Here you will learn how to apply animation without writing any java or kotlin code. 
 * [Create your own Custom View](https://blog.mindorks.com/create-your-own-custom-view) - In this blog, we will learn about the custom view and how to implement it as one. We will talk about each and every aspect of CustomView like onDraw(), onMeasure(), Why it is necessary and how simply you can create your own Views.
 * [Using Custom and Downloadable Fonts in Android](https://blog.mindorks.com/using-custom-and-downloadable-fonts-in-android) - In this blog, we will learn how to use custom and downloadable fonts in android that was introduced in Android 8.0. Now there is no need of writing some piece of code for using the fonts. Also you can choose from any of the thousands of fonts on Google Fonts and use them in your app.
 * [Push Notifications in Android Using FCM](https://blog.mindorks.com/pushing-notifications-in-android-using-fcm) - In this blog, we will learn using Push Notifications in Android Device using FCM. We will learn how to integrate the push notification feature in the app from scratch and handle the message as well.
